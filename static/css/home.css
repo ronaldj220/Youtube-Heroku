@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Marhey:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+Khojki:wght@700&display=swap");
+body {
+  background-color: #ef6918;
+}
+nav {
+  color: white;
+  font-size: 20px;
+}
+.container h2 {
+  font-family: "Dancing Script", cursive;
+  font-size: 60px;
+  margin-top: 5px;
+}
+
+.container form p {
+  margin-top: 20px;
+  font-size: 30px;
+  text-align: center;
+  font-family: "Space Grotesk", sans-serif;
+  color: wheat;
+}
+
+.container form textarea {
+  font-family: "Times New Roman", Times, serif;
+}
+.container h3 {
+  margin-top: 20px;
+  font-family: "Marhey", cursive;
+  color: #2854c8;
+}
+
+.container table tbody {
+  text-align: justify;
+}
+
+.container form input {
+  margin-top: 20px;
+  text-align: center;
+  background-color: #2be8e3;
+  font-family: "Noto Serif Khojki", serif;
+}
+
+.container form input:hover {
+  background-color: beige;
+  font-weight: bold;
+  font-family: "Noto Serif Khojki", serif;
+}
